@@ -9990,7 +9990,7 @@ h3 {
 .table-dark td,
 .table-dark thead th,
 .table-dark tbody + tbody {
-    border-color: #dee2e6;
+    border-color: #ffc107;
   }
 
   .table .thead-dark th {
@@ -10163,4 +10163,21 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+
+#container-2{
+  background-color: orange;
+}
+
+#facebook{
+  color: white;
+}
+#youtube{
+  color: white;
+}
+#instagram{
+  color: white;
+}
+#twitter{
+  color: white;
 }
